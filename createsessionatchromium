@@ -1,4 +1,4 @@
-#execute this at our terminaland login to you accounts
+#execute this at our terminaland login to you account
 
  chrome.exe -remote-debugging-port=9014 --user-data-dir="D:\Selenium\Chrome_Test_Profile" #for chrome
  
